@@ -1,0 +1,3 @@
+Ahmet İşleyen: DC (60.0)
+Mustafa Can: DC (63.333333333333336)
+Kadir Demir: DC (60.333333333333336)
