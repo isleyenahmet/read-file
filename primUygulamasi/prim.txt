@@ -1,0 +1,6 @@
+Ahmet İşleyen:1500 2700 3000
+Beyza İşleyen:500 750 2000
+Mustafa Erbaş:400 800 1200
+Can Can:400 500 600
+Ahmet İşleyen:1400 500 470
+Beyza İşleyen:475 670 800
